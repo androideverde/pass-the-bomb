@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pass the bomb</string>
+    <string name="action_settings">Settings</string>
+    <string name="msgBomb">You have the bomb!\nPass it quickly!</string>
+    <string name="msgNoBomb">You don\'t have the bomb</string>
+    <string name="msgBombPassed">You passed the bomb away!</string>
+    <string name="msgTimeRunningOut">Hurry! Almost no time left!</string>
+    <string name="msgBoom">Oooops! Time is up: BOOM!</string>
+    <string name="msgCancelled">Countdown cancelled.</string>
+    <string name="btnStartGame">Start a new game</string>
+    <string name="btnPassBomb">Pass it away!</string>
+
+</resources>

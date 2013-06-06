@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_30"
+        android:title="30 s"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_60"
+          android:title="1 m"
+          android:orderInCategory="100"
+          android:showAsAction="never" />
+    <item android:id="@+id/action_cancel"
+          android:title="Cancel game"
+          android:orderInCategory="100"
+          android:showAsAction="never" />
+</menu>
